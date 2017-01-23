@@ -1,0 +1,11 @@
+C:\SourceCode\1.DEV-SW.Team\Experimental\BrightcoveBulkTranscode\BrightcoveBulkTranscode\bin\Debug\BrightcoveBulkTranscode.exe.config
+C:\SourceCode\1.DEV-SW.Team\Experimental\BrightcoveBulkTranscode\BrightcoveBulkTranscode\bin\Debug\BrightcoveBulkTranscode.exe
+C:\SourceCode\1.DEV-SW.Team\Experimental\BrightcoveBulkTranscode\BrightcoveBulkTranscode\bin\Debug\BrightcoveBulkTranscode.pdb
+C:\SourceCode\1.DEV-SW.Team\Experimental\BrightcoveBulkTranscode\BrightcoveBulkTranscode\bin\Debug\Newtonsoft.Json.dll
+C:\SourceCode\1.DEV-SW.Team\Experimental\BrightcoveBulkTranscode\BrightcoveBulkTranscode\bin\Debug\Newtonsoft.Json.xml
+C:\SourceCode\1.DEV-SW.Team\Experimental\BrightcoveBulkTranscode\BrightcoveBulkTranscode\obj\Debug\BrightcoveBulkTranscode.csprojResolveAssemblyReference.cache
+C:\SourceCode\1.DEV-SW.Team\Experimental\BrightcoveBulkTranscode\BrightcoveBulkTranscode\obj\Debug\BrightcoveBulkTranscode.exe
+C:\SourceCode\1.DEV-SW.Team\Experimental\BrightcoveBulkTranscode\BrightcoveBulkTranscode\obj\Debug\BrightcoveBulkTranscode.pdb
+C:\Users\twalston\Documents\Visual Studio 2015\Projects\BrightcoveBulkTranscode\BrightcoveBulkTranscode\bin\Debug\BrightcoveBulkTranscode.exe.config
+C:\Users\twalston\Documents\Visual Studio 2015\Projects\BrightcoveBulkTranscode\BrightcoveBulkTranscode\obj\Debug\BrightcoveBulkTranscode.exe
+C:\Users\twalston\Documents\Visual Studio 2015\Projects\BrightcoveBulkTranscode\BrightcoveBulkTranscode\obj\Debug\BrightcoveBulkTranscode.pdb

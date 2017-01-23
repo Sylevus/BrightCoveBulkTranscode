@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BrightcoveBulkTranscode" GeneratedClassName="Brightcove">
+  <Profiles />
+  <Settings>
+    <Setting Name="AccountNumber" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YourAccountNumber</Value>
+    </Setting>
+    <Setting Name="Client" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YourClientKey</Value>
+    </Setting>
+    <Setting Name="ClientSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YourClientSecret</Value>
+    </Setting>
+    <Setting Name="TranscodeProfile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YourTranscodeProfileName</Value>
+    </Setting>
+    <Setting Name="AccessTokenUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://oauth.brightcove.com/v3/access_token</Value>
+    </Setting>
+    <Setting Name="IngressVideoUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://cms.api.brightcove.com/v1/accounts/{0}/videos</Value>
+    </Setting>
+    <Setting Name="IngressToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YourIngressToken</Value>
+    </Setting>
+    <Setting Name="IngressVideoSearch" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://api.brightcove.com/services/library?command=search_videos&amp;token={0}&amp;video_fields=id,name&amp;sort_by=DISPLAY_NAME&amp;get_item_count=true&amp;page_number={1}</Value>
+    </Setting>
+    <Setting Name="PageSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="RetranscodeUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://ingest.api.brightcove.com/v1/accounts/{0}/videos/{1}/ingest-requests</Value>
+    </Setting>
+    <Setting Name="UseArchivedMaster" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RetranscodeIngressProfile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YourTranscodeProfileName</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
